@@ -1,6 +1,6 @@
 # Polynomial Regression 
 
-This repository contains the code and methodolog for building polynomial regression models to solve two complex prediction tasks (Phase 1 and Phase 2). The solution employs penalised regression techniques (Ridge, Lasso, Elastic Net) and cross validation.
+This repository contains the code and methodology for building polynomial regression models to solve two complex prediction tasks (Phase 1 and Phase 2). The solution employs penalised regression techniques (Ridge, Lasso, Elastic Net) and cross validation.
 
 ## Project Structure
 
